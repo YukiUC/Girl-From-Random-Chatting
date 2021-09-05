@@ -68,6 +68,14 @@
             "Snow Translations":"/proxy/api/imgur/chapter/N1qucok/"
          },
          "last_updated":"1630802856"
+      },                             
+      "169":{
+         "title":"People",
+         "volume":"1",
+         "groups":{
+            "Snow Translations":"/proxy/api/imgur/chapter/Oy7DevB/"
+         },
+         "last_updated":"1630802856"
       }
    }
 }
