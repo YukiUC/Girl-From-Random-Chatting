@@ -1,17 +1,17 @@
 {
-  "title": "Girl From Random Chatting",
-  "description": "A miracle has happened to Junwoo, who only ever spends his time on Random Chatting! Will he be able to approach that girl?!",
-  "artist": "Park Eunhyuk",
-  "author": "Park Eunhyuk",
-  "cover": "https://imgur.com/uU5IsT3.jpg",
-  "chapters": {
-          "166": {
-            "groups": {
-                "Imgur": "/proxy/api/imgur/chapter/ss7Zo4D"
-            },
-            "last_updated": 1624606143,
-            "title": "Hunt",
-            "volume": "1"
-    }
-  }
+   "title":"Girl From Random Chatting",
+   "description":"A miracle has happened to Junwoo, who only ever spends his time on Random Chatting! Will he be able to approach that girl?!",
+   "artist":"Park Eunhyuk",
+   "author":"Park Eunhyuk",
+   "cover":"https://www.mangaupdates.com/image/i351848.jpg",
+   "chapters":{
+      "166":{
+         "title":"Hunt",
+         "volume":"1",
+         "groups":{
+            "Snow Translations":"/proxy/api/imgur/chapter/ss7Zo4D/"
+         },
+         "last_updated":"1626713100"
+      }
+   }
 }
