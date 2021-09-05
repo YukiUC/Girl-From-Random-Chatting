@@ -5,13 +5,13 @@
   "author": "Park Eunhyuk",
   "cover": "https://imgur.com/uU5IsT3.jpg",
   "chapters": {
-    "166": {
-      "title": "Hunt",
-      "volume": "1",
-      "groups": {
-        "Imgur": "/proxy/api/imgur/chapter/ss7Zo4D/"
-      },
-      "last_updated": "1616368746"
+          "166": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/ss7Zo4D"
+            },
+            "last_updated": 1624606143,
+            "title": "Hunt",
+            "volume": "1"
     }
   }
 }
