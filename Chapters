@@ -52,12 +52,20 @@
             "Snow Translations":"/proxy/api/imgur/chapter/ss7Zo4D/"
          },
          "last_updated":"1630802856"
-      },                 
+      },       
       "167":{
-         "title":"Go to Die!!",
+         "title":"Go to Die!",
          "volume":"1",
          "groups":{
             "Snow Translations":"/proxy/api/imgur/chapter/Wy55vqI/"
+         },
+         "last_updated":"1630802856"
+      },                       
+      "168":{
+         "title":"Be Born Evil.",
+         "volume":"1",
+         "groups":{
+            "Snow Translations":"/proxy/api/imgur/chapter/N1qucok/"
          },
          "last_updated":"1630802856"
       }
