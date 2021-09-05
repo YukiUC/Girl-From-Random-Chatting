@@ -1,15 +1,15 @@
 {
   "title": "Girl From Random Chatting",
-  "description": "",
-  "artist": "",
+  "description": "A miracle has happened to Junwoo, who only ever spends his time on Random Chatting! Will he be able to approach that girl?!",
+  "artist": "Park Eunhyuk",
   "author": "Park Eunhyuk",
-  "cover": "https://comicthumb-phinf.pstatic.net/20180104_203/pocket_1515061644747IvIkE_JPEG/image.JPEG?type=m260.jpg",
+  "cover": "https://imgur.com/uU5IsT3.jpg",
   "chapters": {
     "166": {
       "title": "Hunt",
-      "volume": "",
+      "volume": "1",
       "groups": {
-        "": "/proxy/api/imgur/chapter/ss7Zo4D/"
+        "Imgur": "/proxy/api/imgur/chapter/ss7Zo4D/"
       },
       "last_updated": "1616368746"
     }
