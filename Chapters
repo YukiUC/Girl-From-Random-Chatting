@@ -1,15 +1,15 @@
 {
-  "title": "<Girl From Random Chatting>",
-  "description": "<manga description>",
-  "artist": "<manga artist>",
-  "author": "<Park Eunhyuk>",
-  "cover": "<https://comicthumb-phinf.pstatic.net/20180104_203/pocket_1515061644747IvIkE_JPEG/image.JPEG?type=m260.jpg>",
+  "title": "Girl From Random Chatting",
+  "description": "",
+  "artist": "",
+  "author": "Park Eunhyuk",
+  "cover": "https://comicthumb-phinf.pstatic.net/20180104_203/pocket_1515061644747IvIkE_JPEG/image.JPEG?type=m260.jpg",
   "chapters": {
-    "<166>": {
-      "title": "<Hunt>",
-      "volume": "<>",
+    "166": {
+      "title": "Hunt",
+      "volume": "",
       "groups": {
-        "<>": "/proxy/api/imgur/chapter/<ss7Zo4D>/"
+        "": "/proxy/api/imgur/chapter/ss7Zo4D/"
       },
       "last_updated": "1616368746"
     }
