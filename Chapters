@@ -76,12 +76,19 @@
             "Snow Translations":"/proxy/api/imgur/chapter/Oy7DevB/"
          },
          "last_updated":"1630818000"
-      },                       
-      "170":{
+      },   
+      "169":{
          "title":"Black",
          "volume":"1",
          "groups":{
             "Snow Translations":"/proxy/api/imgur/chapter/Jo8FpMb/"
+         },
+         "last_updated":"1630818000"      
+      "171":{
+         "title":"Birth of a crime",
+         "volume":"1",
+         "groups":{
+            "Snow Translations":"/proxy/api/imgur/chapter/GWKV14L/"
          },
          "last_updated":"1630924230"
       }
