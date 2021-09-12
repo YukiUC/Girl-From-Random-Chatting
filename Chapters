@@ -1,3 +1,4 @@
+  
 {
    "title":"Girl From Random Chatting",
    "description":"A miracle has happened to Junwoo, who only ever spends his time on Random Chatting! Will he be able to approach that girl?!",
@@ -76,22 +77,14 @@
             "Snow Translations":"/proxy/api/imgur/chapter/Oy7DevB/"
          },
          "last_updated":"1630818000"
-      },   
+      },                       
       "170":{
          "title":"Black",
          "volume":"1",
          "groups":{
             "Snow Translations":"/proxy/api/imgur/chapter/Jo8FpMb/"
          },
-         "last_updated":"1630818000"      
-       },   
-      "171":{
-         "title":"Birth of a crime",
-         "volume":"1",
-         "groups":{
-            "Snow Translations":"/proxy/api/imgur/chapter/GWKV14L/"
-         },
-         "last_updated":"1631451600"
+         "last_updated":"1630924230"
       }
    }
 }
