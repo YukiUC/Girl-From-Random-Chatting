@@ -18,7 +18,7 @@
          "title":"Grudges",
          "volume":"1",
          "groups":{
-            "-":"/proxy/api/imgur/chapter/XvuK9K2/"
+            "Bob":"/proxy/api/imgur/chapter/XvuK9K2/"
          },
          "last_updated":"1630818000"
       },
@@ -98,7 +98,7 @@
          "title":"The Form of a Crime",
          "volume":"1",
          "groups":{
-            "Snow Translations":"/proxy/api/imgur/chapter/k99uJ0O/"
+            "Bob":"/proxy/api/imgur/chapter/k99uJ0O/"
          },
          "last_updated":"1631540157"
       },                              
@@ -114,7 +114,7 @@
          "title":"A Strong Person",
          "volume":"1",
          "groups":{
-            "Snow Translations":"/proxy/api/imgur/chapter/TPrhMh2/"
+            "Arntzle":"/proxy/api/imgur/chapter/TPrhMh2/"
          },
          "last_updated":"1631540157"
       }
