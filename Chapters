@@ -85,14 +85,38 @@
             "Snow Translations":"/proxy/api/imgur/chapter/Jo8FpMb/"
          },
          "last_updated":"1630924230"
-      },                     
-      "171":{
-         "title":"Birth of a Crime",
+      },  
+       "171":{
+         "title":"The Birth of a Crime",
          "volume":"1",
          "groups":{
             "Snow Translations":"/proxy/api/imgur/chapter/GWKV14L/"
          },
          "last_updated":"1631451600"
+      },                
+      "172":{
+         "title":"The Form of a Crime",
+         "volume":"1",
+         "groups":{
+            "Snow Translations":"/proxy/api/imgur/chapter/k99uJ0O/"
+         },
+         "last_updated":"1631540157"
+      },                              
+      "173":{
+         "title":"Life",
+         "volume":"1",
+         "groups":{
+            "Snow Translations":"/proxy/api/imgur/chapter/JxxUYUz/"
+         },
+         "last_updated":"1631540157"
+      },                                   
+      "174":{
+         "title":"A Strong Person",
+         "volume":"1",
+         "groups":{
+            "Snow Translations":"/proxy/api/imgur/chapter/TPrhMh2/"
+         },
+         "last_updated":"1631540157"
       }
    }
 }
