@@ -133,14 +133,22 @@
             "Snow Translations":"/proxy/api/imgur/chapter/4BQ7k3K/"
          },
          "last_updated":"1632226248"
-      },                                     
-      "177":{
+      },      
+     "177":{
          "title":"People's Standards",
          "volume":"1",
          "groups":{
-            "Arntzle":"/proxy/api/imgur/chapter/Ocfb5Mh/"
+            "Snow Translations":"/proxy/api/imgur/chapter/Ocfb5Mh/"
          },
          "last_updated":"1632226248"
+      },                                     
+      "202":{
+         "title":"Who is villain?",
+         "volume":"1",
+         "groups":{
+            "Arntzle":"/proxy/api/imgur/chapter/DilvXTg/"
+         },
+         "last_updated":"1632574841"
       }
    }
 }
